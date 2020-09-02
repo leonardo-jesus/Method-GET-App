@@ -1,0 +1,17 @@
+$ git commit -m "Add the assets/
+> Is where we have the iframe.html with the zat script to run at Zendesk Platform"
+
+
+
+$ git commit -m "Add manifest.json
+> Is where we have all the informations and metadata about our app"
+
+
+
+$ git commit -m "Add translations/
+> Is where contains all the description about the app, is used when we put the app at the Marketplace"
+
+
+
+
+
